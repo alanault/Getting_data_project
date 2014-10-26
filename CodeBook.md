@@ -32,6 +32,7 @@ The data has a number of important aspects:
 * broken into test and training sets
 * based on observations from 30 test subjects
 * covering 6 different activities
+
         + Walking
         + Walking upstairs
         + Walking downstairs
